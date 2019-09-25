@@ -35,7 +35,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  # linkedin: cdespiney
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -53,6 +53,10 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
+  - name: Scss
+    web_url: https://github.com/topics/scss
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://angular.io/assets/images/logos/angular/angular.svg
